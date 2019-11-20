@@ -39,4 +39,5 @@ export PATH=$PATH:$HOME/edirect ./edirect/setup.sh
 efetch -help
 
 References:
-  1. http://armbrustlab.ocean.washington.edu/node/346
+  1. https://github.com/matsen/pplacer
+  2. http://armbrustlab.ocean.washington.edu/node/346
