@@ -1,7 +1,7 @@
 # Pplacer-Pipeline
-Adapted by Chalermpong Intarat, Nov 2019
+Adapted by Chalermpong Intarat, Nov 2019.
 
-Installation Software
+Installation Software:
 1. Do a command line introductory course, if needed. For Mac, I did Macheads101 on Youtube. This will help you to figure out how to install the software. For a more advance writing scripts etc:
 http://mywiki.wooledge.org/BashGuide
 optional: do a python intro course, f.e. 'learn python the hard way' or 'python­Code academy'
@@ -37,3 +37,6 @@ unzip -u -q edirect.zip
 rm edirect.zip
 export PATH=$PATH:$HOME/edirect ./edirect/setup.sh
 efetch -help
+
+References:
+  1. http://armbrustlab.ocean.washington.edu/node/346
