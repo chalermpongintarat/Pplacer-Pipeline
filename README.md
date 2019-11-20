@@ -1,5 +1,8 @@
 # Pplacer-Pipeline
-Adapted by Chalermpong Intarat, Nov 2019.
+Adapted by Chalermpong Intarat
+NBT, NSTDA
+chalermpong.int@biotec.ot.th
+Nov 20, 2019
 
 Installation Software:
 1. Do a command line introductory course, if needed. For Mac, I did Macheads101 on Youtube. This will help you to figure out how to install the software. For a more advance writing scripts etc:
