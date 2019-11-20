@@ -1,2 +1,2 @@
 # Pplacer-Pipeline
-Pplacer Pipeline, adapted by Chalermpong Intarat, Nov 2019
+Adapted by Chalermpong Intarat, Nov 2019
